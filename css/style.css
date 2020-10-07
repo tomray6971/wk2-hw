@@ -1,0 +1,265 @@
+html {
+    width: 1260px;
+    height: 940px;
+    background-color: #edf2c5;
+  }
+  .container{
+      padding-left: 120px;
+  }
+
+  .btn_line{
+    position: absolute;
+    margin-left: 970px;
+    margin-top: 60px;
+    width: 1px;
+    height: 25px;
+    background-color: #778a50;
+  }
+
+  .head-title {
+    position: absolute;
+    margin-left: 160px;
+    margin-top: 36px;
+    width: 271px;
+    height: 62px;
+    font-family: Arial;
+    font-size: 44px;
+    font-weight: 900;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 0.82;
+    letter-spacing: normal;
+    text-align: left;
+    color: #778a50;
+  }
+
+  .btn_fb{
+    position: absolute;
+    margin-left: 900px;
+    margin-top: 60px;
+    width: 25px;
+    height: 25px;
+    object-fit: contain;
+  }
+
+  .btn_ig{
+    position: absolute;
+    margin-left: 935px;
+    margin-top: 60px;
+    width: 25px;
+    height: 25px;
+    object-fit: contain;
+  }
+
+  .box_login{
+    position: absolute;
+    margin-left: 981px;
+    margin-top: 60px;
+    border-radius: 3px;
+    width: 60px;
+    height: 25px;
+    border: solid 1px #778a50;
+    text-decoration: none;
+  }
+
+  .btn_login{
+    width: 46px;
+    height: 15px;
+    font-family: Arial;
+    font-size: 14px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #778a50;
+    padding:5px 0 0 5px;
+  }
+
+  .box_join{
+    border-radius: 3px;
+    position: absolute;
+    margin-left: 1051px;
+    margin-top: 60px;
+    width: 49px;
+    height: 25px;
+    border: solid 1px #778a50;
+    text-decoration: none;
+  }
+
+  .btn_join{
+    width: 35px;
+    height: 15px;
+    font-family: Arial;
+    font-size: 14px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #778a50;
+    padding:7px 0 0 7px
+  }
+
+  .nav_box {
+    position: absolute;
+    margin-left: 160px;
+    margin-top: 103px;
+    width: 940px;
+    height: 44px;
+    border-radius: 3px;
+    background-color: #778a50;
+  }
+
+    .nav_list{
+        display: flex;
+        margin: 0;
+        padding-top: 10px;
+    }
+
+    .nav_list_item{
+            list-style: none;
+            margin-right: 60px;
+    }
+    .nav_list_item_link{
+        display: block;
+        color: #edf2c5;
+        text-decoration: none;
+        font-family: Arial;
+        font-size: 16px;
+        font-weight: 900;
+        font-stretch: normal;
+        font-style: normal;
+        letter-spacing: normal;
+    }
+
+    .pumkin{
+        position: absolute;
+        margin-left: 160px;
+        margin-top: 167px;
+    }
+
+    .vegetables_box{
+        position: absolute;
+        width: 444px;
+        height: 45px;
+        border-radius: 3px;
+        background-color: #778a50;
+        margin-left: 160px;
+        margin-top: 645px;
+      }
+
+      .contact_box{
+        position: absolute;
+        width: 444px;
+        height: 45px;
+        border-radius: 3px;
+        background-color: #778a50;
+        margin-left: 656px;
+        margin-top: 645px;
+      }
+
+      .contact{
+        font-family: Arial;
+        font-size: 16px;
+        font-weight: 900;
+        font-stretch: normal;
+        font-style: normal;
+        letter-spacing: normal;
+        text-align: left;
+        color: #edf2c5;
+        padding: 10px 0 0 30px;
+      }
+      .vegetables{
+        font-family: Arial;
+        font-size: 16px;
+        font-weight: 900;
+        font-stretch: normal;
+        font-style: normal;
+        letter-spacing: normal;
+        text-align: left;
+        color: #edf2c5;
+        padding: 10px 0 0 30px;
+      }
+      .vegetables_img{
+          position: absolute;
+          margin-top: 705px;
+          margin-left: 160px;
+      }
+      .carrot{
+        margin-left: 12px;
+      }
+
+      .corn{
+         margin-left: 12px;
+      }
+
+      .contact_body{
+            position: absolute;
+            margin-left: 656px;
+            margin-top: 705px;
+            width: 444px;
+            height: 140px;
+            background-color: #f7fbda;
+          }
+    
+          .contact_body_text{
+            width: 414px;
+            height: 44px;
+            font-family: Arial;
+            font-size: 12px;
+            font-weight: normal;
+            font-stretch: normal;
+            font-style: normal;
+            letter-spacing: normal;
+            text-align: left;
+            color: #7d7d7d;
+            padding-left: 15px;
+          }
+
+          .contact_body_info{
+            width: 197px;
+            height: 35px;
+            font-family: Arial;
+            font-size: 12px;
+            font-weight: normal;
+            font-stretch: normal;
+            font-style: normal;
+            letter-spacing: normal;
+            text-align: left;
+            color: #7d7d7d;
+            padding-left: 15px;
+            padding-top: 16px;
+          }
+
+          .contact_body_line{
+            position: absolute;
+            background-color: #7D7D7D;
+            width: 414px;
+            height: 1px;
+            margin: 0px 0 30px 15px;
+        }
+
+        .footer_box{
+            display: flex;
+            position: absolute;
+            width: 1260px;
+            height: 60px;
+            background-color: #778a50;
+            margin-top: 880px;
+          }
+
+        .footer_box_text{
+            margin:auto;
+                width: 301px;
+                height: 14px;
+                font-family: Arial;
+                font-size: 12px;
+                font-weight: normal;
+                font-stretch: normal;
+                font-style: normal;
+                letter-spacing: normal;
+                text-align: left;
+                color: #edf2c5;
+        }
+
